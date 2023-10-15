@@ -1,0 +1,10 @@
+C:\Users\aikaw\Documents\Miruku_GL\bin\Debug\Miruku_GL.exe.config
+C:\Users\aikaw\Documents\Miruku_GL\bin\Debug\Miruku_GL.exe
+C:\Users\aikaw\Documents\Miruku_GL\bin\Debug\Miruku_GL.pdb
+C:\Users\aikaw\Documents\Miruku_GL\obj\Debug\Miruku_GL.Form1.resources
+C:\Users\aikaw\Documents\Miruku_GL\obj\Debug\Miruku_GL.Properties.Resources.resources
+C:\Users\aikaw\Documents\Miruku_GL\obj\Debug\Miruku_GL.csproj.GenerateResource.cache
+C:\Users\aikaw\Documents\Miruku_GL\obj\Debug\Miruku_GL.csproj.CoreCompileInputs.cache
+C:\Users\aikaw\Documents\Miruku_GL\obj\Debug\Miruku_GL.exe
+C:\Users\aikaw\Documents\Miruku_GL\obj\Debug\Miruku_GL.pdb
+C:\Users\aikaw\Documents\Miruku_GL\obj\Debug\Miruku_GL.csproj.AssemblyReference.cache
